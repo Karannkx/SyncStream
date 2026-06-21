@@ -43,11 +43,15 @@
 ## 🚀 Getting Started
 
 ```bash
+# Clone the repository
+git clone https://github.com/Karannkx/SyncStream.git
+cd SyncStream
+
 # Install dependencies
-pnpm install
+npm install
 
 # Start development server
-pnpm --filter @workspace/syncstream run dev
+npm run dev
 ```
 
 ---
